@@ -1,0 +1,48 @@
+Artificial Intelligence: An Overview
+=====================================
+
+Artificial Intelligence (AI) refers to the simulation of human intelligence processes
+by computer systems. These processes include learning, reasoning, and self-correction.
+
+Machine Learning
+-----------------
+Machine Learning (ML) is a subset of AI that enables systems to automatically learn
+and improve from experience without being explicitly programmed. ML focuses on
+developing computer programs that can access data and use it to learn for themselves.
+
+Key types of Machine Learning:
+- Supervised Learning: The algorithm learns from labeled training data
+- Unsupervised Learning: The algorithm discovers patterns in unlabeled data
+- Reinforcement Learning: The algorithm learns through reward-based feedback
+
+Deep Learning
+--------------
+Deep Learning is a subset of machine learning that uses neural networks with many
+layers (hence "deep"). It excels at tasks like image recognition, natural language
+processing, and speech recognition.
+
+Large Language Models (LLMs)
+------------------------------
+LLMs are AI models trained on vast amounts of text data. They can generate coherent
+text, answer questions, summarize documents, write code, and much more.
+
+Notable LLMs include:
+- GPT-4 (OpenAI)
+- Claude (Anthropic) — focused on safety and helpfulness
+- Gemini (Google DeepMind)
+- LLaMA (Meta AI)
+
+RAG (Retrieval-Augmented Generation)
+--------------------------------------
+RAG combines LLMs with external knowledge retrieval. Instead of relying solely on
+training data, the model retrieves relevant documents at query time and uses them
+as context to generate more accurate, up-to-date answers.
+
+AI Agents
+----------
+AI agents are autonomous systems that can perceive their environment, make decisions,
+and take actions to achieve goals. Modern agents use LLMs as a reasoning core and
+can call tools like web search, calculators, databases, and APIs.
+
+LangChain is a popular framework for building LLM-powered applications and agents.
+LangGraph extends LangChain to support stateful, multi-step agent workflows.

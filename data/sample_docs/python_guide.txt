@@ -1,0 +1,87 @@
+Python Programming: Key Concepts
+==================================
+
+Python is a high-level, interpreted, general-purpose programming language known
+for its readability and versatility. Created by Guido van Rossum in 1991.
+
+Core Data Types
+----------------
+- int: Integer numbers (e.g., 42, -7)
+- float: Floating-point numbers (e.g., 3.14)
+- str: Strings of characters (e.g., "hello")
+- list: Ordered, mutable sequences (e.g., [1, 2, 3])
+- tuple: Ordered, immutable sequences (e.g., (1, 2, 3))
+- dict: Key-value pairs (e.g., {"key": "value"})
+- set: Unordered collections of unique items
+
+Control Flow
+-------------
+Python uses indentation to define code blocks:
+
+    if condition:
+        do_something()
+    elif other_condition:
+        do_other()
+    else:
+        fallback()
+
+    for item in iterable:
+        process(item)
+
+    while condition:
+        loop_body()
+
+Functions and Lambdas
+----------------------
+    def greet(name: str) -> str:
+        return f"Hello, {name}!"
+
+    square = lambda x: x ** 2
+
+List Comprehensions
+--------------------
+A concise way to create lists:
+    squares = [x**2 for x in range(10)]
+    evens = [x for x in range(20) if x % 2 == 0]
+
+Classes and OOP
+----------------
+    class Animal:
+        def __init__(self, name: str):
+            self.name = name
+
+        def speak(self) -> str:
+            raise NotImplementedError
+
+    class Dog(Animal):
+        def speak(self) -> str:
+            return f"{self.name} says Woof!"
+
+Key Standard Library Modules
+------------------------------
+- os, pathlib: File and directory operations
+- sys: System-level operations
+- json: JSON encoding/decoding
+- re: Regular expressions
+- datetime: Date and time handling
+- collections: Specialized data structures (Counter, defaultdict, deque)
+- itertools: Iterator building blocks
+- functools: Higher-order functions (lru_cache, reduce, partial)
+
+Popular Third-Party Libraries
+-------------------------------
+- NumPy: Numerical computing
+- Pandas: Data analysis and manipulation
+- Requests: HTTP requests
+- FastAPI / Flask: Web frameworks
+- SQLAlchemy: Database ORM
+- Pytest: Testing framework
+- LangChain: LLM application framework
+
+Virtual Environments
+---------------------
+Isolate project dependencies with:
+    python -m venv .venv
+    source .venv/bin/activate  # Linux/Mac
+    .venv\Scripts\activate     # Windows
+    pip install -r requirements.txt

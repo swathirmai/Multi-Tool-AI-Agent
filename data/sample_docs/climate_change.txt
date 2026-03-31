@@ -1,0 +1,46 @@
+Climate Change: Science and Impact
+====================================
+
+Climate change refers to long-term shifts in global temperatures and weather patterns.
+Since the 1800s, human activities have been the main driver of climate change,
+primarily due to burning fossil fuels.
+
+Greenhouse Gases
+-----------------
+The primary greenhouse gases responsible for warming include:
+- Carbon dioxide (CO2): Released by burning fossil fuels, deforestation
+- Methane (CH4): Produced by livestock, landfills, natural gas leaks
+- Nitrous oxide (N2O): From agriculture and industrial processes
+- Water vapor: Amplifies warming caused by other gases
+
+Current Temperature Trends
+----------------------------
+- Global average temperature has risen approximately 1.1°C since pre-industrial times
+- The last decade (2011-2020) was the warmest on record
+- Arctic regions are warming 2-4 times faster than the global average
+- Sea levels rose about 20 cm over the 20th century
+
+Key Impacts
+------------
+1. Extreme Weather: More frequent and intense heat waves, hurricanes, droughts
+2. Sea Level Rise: Threatens coastal cities and island nations
+3. Ecosystem Disruption: Coral bleaching, species migration, habitat loss
+4. Food Security: Shifting agricultural zones, reduced crop yields
+5. Human Health: Heat-related illness, spread of vector-borne diseases
+
+Mitigation Strategies
+----------------------
+- Transition to renewable energy (solar, wind, hydropower)
+- Energy efficiency improvements in buildings and transport
+- Reforestation and forest conservation
+- Carbon capture and storage technologies
+- Sustainable agriculture practices
+
+International Agreements
+--------------------------
+The Paris Agreement (2015) aims to limit global warming to 1.5-2°C above
+pre-industrial levels. Countries submit Nationally Determined Contributions (NDCs)
+outlining their climate action plans.
+
+The IPCC (Intergovernmental Panel on Climate Change) publishes regular assessment
+reports synthesizing the latest climate science.
